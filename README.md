@@ -1,0 +1,2 @@
+# SQLgyak
+sql lekérdezések
